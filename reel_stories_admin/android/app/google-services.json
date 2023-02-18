@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "36385560518",
+    "project_id": "reel-stories",
+    "storage_bucket": "reel-stories.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36385560518:android:dc86576498622f078284c7",
+        "android_client_info": {
+          "package_name": "app.reelstories.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36385560518-b2urui908p0dsllf4hstelerus9era73.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.reelstories.user",
+            "certificate_hash": "c14260d9867918b9a00f26a6e8809ba693ee4c8a"
+          }
+        },
+        {
+          "client_id": "36385560518-vouqdt9a2c9dq9a07an3o83kvcv8o615.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.reelstories.user",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "36385560518-t704hnl04ursf4mpa68ble4v89nqdofi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt6NcxhBbLIlg7w5BRSz50irHDQ19f6MY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36385560518-6b7huj9kbdj29brctbgiarq1c32vuvjp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "36385560518-j447utnl8vcrunv1ij33ft9p2rjeb9sq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.reelstories.user"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36385560518:android:8d8d4ff08d4e88b38284c7",
+        "android_client_info": {
+          "package_name": "com.reelstories.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36385560518-bdirvmkflick1ei14dqeeuibmtd4n5jf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reelstories.admin",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "36385560518-t704hnl04ursf4mpa68ble4v89nqdofi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt6NcxhBbLIlg7w5BRSz50irHDQ19f6MY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36385560518-6b7huj9kbdj29brctbgiarq1c32vuvjp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "36385560518-j447utnl8vcrunv1ij33ft9p2rjeb9sq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.reelstories.user"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
